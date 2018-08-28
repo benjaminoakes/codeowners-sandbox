@@ -1,1 +1,1 @@
-*.rb @benjaminoakes-blog
+**/baz/*.rb @benjaminoakes-blog
