@@ -1,1 +1,3 @@
 # Some Ruby
+
+puts 'hi'
